@@ -16,7 +16,7 @@ To be able to run the notebooks in this session, do the following
 
 3. Activate it: On Linux `source olpejeta/bin/activate` On Windows `olpejeta\Scripts\activate.bat`
 
-4. Update pip: `pip install --upgrade pip`
+4. Update pip: `pip install --upgrade pip` then `python.exe -m pip install --upgrade pip`
 
 5. Install the requirements: `pip install -r requirements.txt`
 
