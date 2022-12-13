@@ -21,3 +21,5 @@ To be able to run the notebooks in this session, do the following
 5. Install the requirements: `pip install -r requirements.txt`
 
 6. Launch jupyter `jupyter notebook`
+
+
