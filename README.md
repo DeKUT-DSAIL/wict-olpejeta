@@ -22,6 +22,4 @@ To be able to run the notebooks in this session, do the following
 
 6. Launch jupyter `jupyter notebook`
 
-![image](https://user-images.githubusercontent.com/74656615/207335762-cab7d929-351b-4b9a-824c-662983d81b6e.png) 
-![image](https://user-images.githubusercontent.com/74656615/207335530-8412e1d7-3655-4981-a403-39d5be535e35.png) 
-![image](https://user-images.githubusercontent.com/74656615/207335391-3471bc97-cc95-4688-8b97-6ceedbc18ff6.png)
+
