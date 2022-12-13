@@ -1,8 +1,8 @@
-# wict-olpajeta
-This repository contains materials that will be used for a Women in Conservation Technology Workshop that will be held in Ol Pajeta Conservancy. It showcases work done at DSAIL involving low-cost conservation technology that can be used to monitor our ecosystem.
+# Women in Conservation Technology Workshop
+This repository contains materials that will be used for the Workshop held in Ol Pejeta Conservancy and planned by Fauna & Flora International and the [WILDLABS](https://www.wildlabs.net/) conservation technology hub. It showcases work done at DSAIL involving low-cost conservation technology that can be used to monitor our ecosystem.
 
 
-For this session, you will be required to download and install
+For the "Introduction to Pi" session, you will be required to download and install
 1. [PuTTy](https://www.putty.org/)
 2. [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 
