@@ -1,3 +1,6 @@
 auto-detection/auto-detection/yolov5/
 olpejeta/
 *.ipynb_checkpoints
+auto-detection/auto-detection/dataset/Zebra-elephant.mp4
+auto-detection/auto-detection/dataset/data/more-images/
+auto-detection/auto-detection/dataset/impala-elephant.mp4
