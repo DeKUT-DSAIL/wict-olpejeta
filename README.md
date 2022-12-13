@@ -1,5 +1,5 @@
 # Women in Conservation Technology Workshop
-This repository contains materials that will be used for the Workshop held in Ol Pejeta Conservancy and planned by Fauna & Flora International and the [WILDLABS](https://www.wildlabs.net/) conservation technology hub. It showcases work done at DSAIL involving low-cost conservation technology that can be used to monitor our ecosystem.
+This repository contains materials that will be used for the Workshop held in Ol Pejeta Conservancy organized by Fauna & Flora International and the [WILDLABS](https://www.wildlabs.net/) conservation technology hub. It showcases work done at DSAIL involving low-cost conservation technology that can be used to monitor our ecosystem.
 
 
 For the "Introduction to Pi" session, you will be required to download and install
