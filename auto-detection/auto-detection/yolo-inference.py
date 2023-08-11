@@ -30,7 +30,7 @@ def detect_and_verify(source):
     results = model(img)
     print(results)
 
-    %matplotlib inline 
+    #%matplotlib inline 
     plt.imshow(np.squeeze(results.render()))
     plt.show()
     
@@ -41,7 +41,7 @@ def detect_class(source):
     img = (source)
     results = model(img)
     print(results)
-    %matplotlib inline 
+    #%matplotlib inline 
     plt.imshow(np.squeeze(results.render()))
     plt.show()
 
