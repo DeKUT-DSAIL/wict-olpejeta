@@ -80,15 +80,14 @@ def detect_class(source):
 #!git clone https://github.com/ultralytics/yolov5
 
 #load animal detection model
-#model = torch.hub.load('ultralytics/yolov5', 'custom', path=r'models/lasst.pt',verbose=False)
-model = torch.hub.load(r'yolov5', 'custom', path=r'models/lasst.pt', source='local',force_reload=True)
+model = torch.hub.load('ultralytics/yolov5', 'custom', path=r'models/lasst.pt',verbose=False)
 print('Detection model has loaded')
 
 #Set the confidence which you require from the model
 model.conf = 0.45
 
 detect_and_verify('dataset/images/impala.jpg')
-detect_and_verify(r'dataset\images\tortoise.jpg')
+detect_and_verify('dataset/images/tortoise.jpg')
 detect_and_verify('dataset/images/waterbuck.jpg')
 detect_and_verify('dataset/images/impalas-warthogs.jpg')
 detect_and_verify('dataset/images/DSC_0007.JPG')
